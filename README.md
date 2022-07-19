@@ -1,5 +1,5 @@
 - ⚡ I’m a person who is very interested in technology
-- 🌱 I’m passionate about backend development
+- 🌱 I’m passionate about web and backend development
 - 📫 How to reach me: yusuf.wandana1@gmail.com
 
 
